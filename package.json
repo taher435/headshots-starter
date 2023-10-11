@@ -65,5 +65,8 @@
     "@types/react": "18.2.12",
     "@types/react-dom": "18.2.5",
     "encoding": "^0.1.13"
+  },
+  "volta": {
+    "node": "18.18.0"
   }
 }
